@@ -1,4 +1,3 @@
-cat > ~/IMDBPlayer-Linux/README.md << 'EOF'
 # 🎬 IMDB Movie Player
 
 A simple Linux desktop app to watch movies from IMDB using playimdb.com.
